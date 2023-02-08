@@ -21,4 +21,5 @@ Overview of Property Management Dashboard
 
 
 Properties Analysis by Location 
-<img width="604" alt="Screenshot 2023-02-07 152936" src="https://user-images.githubusercontent.com/100677928/217559136-a4530000-7e04-4c61-b960-8c7f85e3749c.png">
+![f7878c60-2af9-4a69-aee9-09526ea5283a](https://user-images.githubusercontent.com/100677928/217559626-8d9645e0-c68e-4486-9629-f04419605c52.png)
+
